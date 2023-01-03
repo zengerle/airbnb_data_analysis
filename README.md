@@ -7,7 +7,7 @@
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
-To run the code you will need a framework to run Jupyter Notebooks. This is, for example, included in the Anaconda distribution for Python. The code should run out of the box with python versions > 3.9.13.
+To run the code you will need a framework to run Jupyter Notebooks. This is, for example, included in the Anaconda distribution for Python. The code should run out of the box with python versions >= 3.9.13.
 
 The code expects data in a folder called "data", which needs to be placed in the directory where you run the code. You can download  latests datasets from [Airbnb website](http://insideairbnb.com/get-the-data/). Chose a city/region and place the "listings.csv.gz" in the data folder.
 ## Project Motivation<a name="motivation"></a>
