@@ -20,7 +20,7 @@ This code was created in the course of my Udacity Data Scientist Nanodegree prog
 **airbnb_data_analysis.ipynb**: This is the file you need to run.  
 **data/**: Place the downloaded dataset in this folder.
 ## Results<a name="results"></a>
-The results were published on Medium. You can access the blog post with the following link. (link to be added.)
+The results were published on Medium. You can access the blog post with [this link](https://medium.com/@zengerlet/airbnb-in-vienna-private-or-professional-hosts-thats-the-question-11b1a20a96de).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-I would like to give credit to Airbnb for the nice and clean data set. The licensing details can be found on [Airbnb website](http://insideairbnb.com/get-the-data/).
+I would like to give credit to Airbnb for the nice and clean data set. The licensing details can be found on the [Airbnb website](http://insideairbnb.com/get-the-data/).
